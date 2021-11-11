@@ -4,7 +4,7 @@
 Portfolio website build using HTML5, CSS3, JavaScript and Php.
 
 <h2> Website Link: 
-<a href="https://shrutimishra-2002.github.io/Portfoliowebsite/" target="_blank">Visit Now🚀</a>
+<a href="https://shrutimishra-2002.github.io/Portfoliowebsite/" target="_blank">HAVE A LOOK</a>
 </h2> 
 
 ## 📌 Tech Stack:
@@ -16,7 +16,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and Php.
 
 #### Extras : Particle.js, Typed.js, Tilt.js, Font Awesome etc.
 
-## 📌 Sneak Peek of Main Page:
+## 📌 Main Page:
 
 <img src="images/main.png" alt="welcomemainpage" width="800px" height="500px">
 
@@ -25,9 +25,9 @@ Portfolio website build using HTML5, CSS3, JavaScript and Php.
 
 <div align="center">
 
-<a  href="https://www.linkedin.com/in/shruti-mishra-b270a7203/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:shrutidmishra2002@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a  href="https://www.linkedin.com/in/shruti-mishra-b270a7203/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><span>
+<a href="mailto:shrutidmishra2002@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></span>
 
 </div>
-
-© 2021 Shruti Mishra
+<center>
+© 2021 Shruti Mishra </center>
