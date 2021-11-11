@@ -2,12 +2,15 @@
 ## Portfolio-Website
 
 <h2> Website Link : 
+<br>
 <a href="https://shrutimishra-2002.github.io/Portfoliowebsite/" target="_blank">HAVE A LOOK</a>
 </h2> 
-<br><br>
+<br>
 
 
 ## 📌 Tech Stack:
+<br><br>
+
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)]
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)]
 [![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]
@@ -20,6 +23,7 @@
 
 
 ## 📌 Main Page:
+<br><br>
 
 <img src="images/main.png" alt="welcomemainpage" width="700px" height="500px">
 <br><br>
@@ -37,7 +41,7 @@
 
 
 
-<h2> Contact :</h2>
+<h2>📌 Contact :</h2>
 <br><br>
 
 <div align="center">
