@@ -2,14 +2,13 @@
 ## Portfolio-Website
 
 <h2> Website Link : 
-<br>
 <a href="https://shrutimishra-2002.github.io/Portfoliowebsite/" target="_blank">HAVE A LOOK</a>
 </h2> 
 <br>
 
 
 ## 📌 Tech Stack:
-<br><br>
+<br>
 
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)]
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)]
@@ -25,18 +24,18 @@
 ## 📌 Main Page:
 <br><br>
 
-<img src="images/main.png" alt="welcomemainpage" width="700px" height="500px">
+<img src="images/main.png" alt="welcomemainpage" width="700px" height="400px">
 <br><br>
-<img src="images/about.png" alt="about" width="700px" height="500px">
-<br><br>
-
-<img src="images/skills.png" alt="skills" width="700px" height="500px">
+<img src="images/about.png" alt="about" width="700px" height="400px">
 <br><br>
 
-<img src="images/education.png" alt="education" width="700px" height="500px">
+<img src="images/skills.png" alt="skills" width="700px" height="400px">
 <br><br>
 
-<img src="images/contact.png" alt="contact" width="700px" height="500px">
+<img src="images/education.png" alt="education" width="700px" height="400px">
+<br><br>
+
+<img src="images/contact.png" alt="contact" width="700px" height="400px">
 <br><br>
 
 
