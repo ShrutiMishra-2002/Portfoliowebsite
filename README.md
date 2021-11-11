@@ -1,9 +1,7 @@
 
 ## Portfolio-Website
 
-Portfolio website build using HTML5, CSS3, JavaScript and Php.
-
-<h2> Website Link: 
+<h2> Website Link : 
 <a href="https://shrutimishra-2002.github.io/Portfoliowebsite/" target="_blank">HAVE A LOOK</a>
 </h2> 
 
@@ -18,10 +16,10 @@ Portfolio website build using HTML5, CSS3, JavaScript and Php.
 
 ## 📌 Main Page:
 
-<img src="images/main.png" alt="welcomemainpage" width="800px" height="500px">
+<img src="images/main.png" alt="welcomemainpage" width="700px" height="500px">
 
 
-<h2>📬 Contact</h2>
+<h2> Contact :</h2>
 
 <div align="center">
 
@@ -29,5 +27,6 @@ Portfolio website build using HTML5, CSS3, JavaScript and Php.
 <a href="mailto:shrutidmishra2002@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></span>
 
 </div>
-<center>
-© 2021 Shruti Mishra </center>
+
+<div align="center">
+© 2021 Shruti Mishra </div>
