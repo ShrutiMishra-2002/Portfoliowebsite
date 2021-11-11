@@ -6,7 +6,6 @@
 </h2> 
 <br>
 
-
 ## 📌 Tech Stack:
 <br>
 
@@ -14,12 +13,9 @@
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)]
 [![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]
 [![PHP](https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php&logoColor=%23F7DF1E)]
-
 <br>
-
 #### Extras : Particle.js, Typed.js, Tilt.js, Font Awesome etc.
 <br><br>
-
 
 ## 📌 Main Page:
 <br><br>
@@ -37,8 +33,6 @@
 
 <img src="images/contact.png" alt="contact" width="700px" height="400px">
 <br><br>
-
-
 
 <h2>📌 Contact :</h2>
 <br><br>
