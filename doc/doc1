@@ -1,0 +1,229 @@
+          <!-- PROJECT -->
+          <div class="blog-post " style="margin-top: 10vh;">
+            <div class="blog-post__img" style="height: 10%;">
+                <img src="assets/img/PhonePocket.png" alt="">
+            </div>
+            <div class="blog-post__info ">
+                <h1 class="blog-post__title">Phone Pocket </h1>
+                <p class="blog-post__text">
+                    <span class="text-highlight-2">Phone Pocket</span> is a Mernstack Web Application that allows users to maintain their contacts. It doesn't need any local storage of the user. The website can be run anywhere, either on a mobile phone or desktop. 
+                </p>
+                <div style="margin-bottom: 10px;"class="technologies">
+                  <p class="project-technologies">>> Frontend- HTML, CSS, Bootstarp, Flexbox, Javascript</p>
+                  <p class="project-technologies">>> Backend- Node.js</p>
+                  <p class="project-technologies">>> Frameworks- React.js</p>
+                  <p class="project-technologies">>> Database- MongoDB Atlas</p>
+
+                </div>
+                <div class="d-flex justify-content-around ">
+                    <div>
+                        <ul style="margin-bottom: 20px;" class="project-icons">
+                          <li><a class="github" href="https://github.com/lavishabhambri/Phone-Pocket-App"><i class="fab fa-github"></i></a></li>
+                          <li><a class="github" href="https://phone-pocket.netlify.app/"><i class="fas fa-link"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+//css
+.blog-post__img img{
+  width: 100%;
+}
+
+.blog-post{
+  box-shadow: 20px 20px 50px rgba(0,0,0,1);
+  border-radius: 15px;
+  background: rgba(255,255,255,0.1);
+  border-top: 1px solid rgba(255,255,255,0.5);
+  border-left: 1px solid rgba(255,255,255,0.5);
+  backdrop-filter: blur(5px);
+  width: 100%;
+  padding:0.75rem 3rem;
+  display: flex;
+  align-items: center;
+  border-radius: .8rem;
+}
+
+.blog-post__img{
+  max-width:100%;
+  transform: translateX(-8rem);
+  position: relative;
+}
+
+.blog-post__img img{
+  min-width: 75vh;
+  max-width: 80vh;
+  object-fit: cover;
+  display: block;
+  border-radius: 0.8rem;
+}
+
+.blog-post__img::before{
+  content: '';
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: .5rem .5rem 3rem 1px  rgba(0,0,0,1);
+  border-radius: .8rem;
+  z-index: 2;
+}
+
+.blog-post__title{
+  font-size:2.5rem;
+  margin: 1rem 0 2rem;
+  background: linear-gradient(45deg, #fff400,#f3503c, #d53567, #A7489B);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+/* .blog-post__title:hover{
+  letter-spacing: 3px;
+  transition: letter-spacing 2s ease-in-out;
+  background: linear-gradient(-45deg, #fff400, #ffa601 ,#f3503c, #A7489B);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+} */
+.blog-post__text{
+  margin-bottom: 1rem;
+  color: lightgrey;
+}
+
+
+.project-icons
+{
+  padding-left:0;
+  margin-bottom:0;
+  list-style:none
+}
+.project-icons li
+{
+  display:inline-block;
+}
+
+.project-icons a{
+  background-color:rgb(68, 68, 68);
+  color:#fff;
+  font-size:16px;
+  display:inline-block;
+  line-height:44px;
+  width:44px;
+  height:44px;
+  text-align:center;
+  margin-right:8px;
+  border-radius:100%;
+  -webkit-transition:all .2s linear;
+  -o-transition:all .2s linear;
+  transition:all .2s linear
+}
+.project-icons a:active,.project-icons a:focus,.project-icons a:hover
+{
+  background: #000;
+}
+
+.project-technologies{
+  margin: 0px auto;
+  color: #dddddd;
+}
+
+#work{
+  padding:0% 15%;
+}
+
+@media screen and (max-width:1068px){
+  .blog-post{
+    max-width: 90vw;
+  }
+
+}
+@media screen and (max-width:868px){
+  .blog-post{
+    padding: 2.5rem;
+    flex-direction: column;
+  }
+  .blog-post__img{
+    min-width: 100%;
+    max-width: 100%;
+    transform: translate(0, -5rem);
+  }
+  .blog-post__img img{
+    min-width: 100%;
+    max-width: 100%;
+    transform: translate(0, 0rem);
+
+  }
+  .blog-post__info{
+    margin-top: -4rem;
+  }
+  .blog-post__title{
+    font-size: 1.6rem;
+    font-weight: bolder;
+    margin: 5px auto;
+  }
+  .blog-post__date span{
+    font-size: 0.8rem;
+  }
+  .blog-post__img::before{
+    z-index: 2;
+  }
+
+}
+@media screen and (max-width:768px){
+  /* #work{
+    padding:0% 3%;
+  } */
+  .blog-post{
+    padding: 1rem;
+    flex-direction: column;
+    margin:0% auto 25% auto;
+  }
+  .blog-post__img{
+    min-width: 100%;
+    max-width: 100%;
+    transform: translate(0, -5rem);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+  }
+  .blog-post__img img{
+    min-width: 100%;
+    max-width: 100%;
+    flex-shrink: 0;
+    transform: translate(0, 0rem);
+  }
+  .blog-post__info{
+    margin-top: -4rem;
+  }
+  .blog-post__title{
+    font-size: 1.6rem;
+    font-weight: bolder;
+  }
+  .blog-post__date span{
+    font-size: 0.8rem;
+  }
+  .blog-post__img::before{
+    z-index: 2;
+  }
+
+  .skills-text{
+    width: 95%;
+    text-align: center;
+  }
+
+  .certificates-box img{
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+	  -webkit-box-shadow: 0 0 38px 0 rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0 0 38px 0 rgba(0, 0, 0, 0.3);
+    box-shadow: -4px 4px 25px rgba(225, 225, 255, 0.3);
+  }
+}
+
+
+.social-icons a.github:hover
+{
+  background-color:black
+}

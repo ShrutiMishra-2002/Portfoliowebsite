@@ -28,6 +28,9 @@
 <img src="images/skills.png" alt="skills" width="700px" height="400px">
 <br><br>
 
+<img src="images/projects.png" alt="projects" width="700px" height="400px">
+<br><br>
+
 <img src="images/education.png" alt="education" width="700px" height="400px">
 <br><br>
 
